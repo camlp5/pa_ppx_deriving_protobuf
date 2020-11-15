@@ -1,0 +1,5 @@
+
+pa_ppx_deriving_protobuf Version 0.07
+-------------------------------------
+
+* [14 Nov 2020] Start project by moving code from pa_ppx
